@@ -71,22 +71,22 @@ async function akhir(){window.location = "https://api.whatsapp.com/send?phone=&t
                       imageUrl: 'https://i.postimg.cc/Nf0pkxTQ/bear-panda.gif', imageWidth: 120, imageHeight: 120,
                       });
                   	await swalst.fire({
-                      title: 'hmmm crush diay tika hahaahhahah ' + nama + '&#128523;', 
+                      title: 'hmmm crush diay tika  ' + nama + '&#128523;', 
                       imageUrl: 'https://i.postimg.cc/02wF21b1/peach-goma.gif', imageWidth: 120, imageHeight: 120,
                       });   	
                       await swalst.fire({
-                      title: 'Tapi ' + nama + ' jangan kaget yaa',
+                      title: 'hmmm ' + nama + ' dugay na diay tika crush',
                       imageUrl: 'https://i.postimg.cc/1XScR4Vz/tkthao219-bubududu-1.gif', imageWidth: 120, imageHeight: 120,
                       });
                       await swalst.fire({
-                      title: 'Sebenernyaaa',
+                      title: 'labyuuuu♥️',
                       imageUrl: 'https://i.postimg.cc/ydHSct1Q/gigit.gif', imageWidth: 120, imageHeight: 120,
                       });
                       await swalst.fire({
-                      title: 'Aku udah lama suka sama ' + nama + ' &#128518;',
+                      title: 'kapoy baya kayu buhat ani  ' + nama + ' &#128518;',
                       imageUrl: 'https://i.postimg.cc/3RXmq7fQ/mimibubu-1.gif', imageWidth: 120, imageHeight: 120,
                       });
-                      text = "Hehe Pm ko sa Fb Ramil Baruiz♥️ " + nama + " marah :(    ";
+                      text = "Hehe Pm ko sa Fb Ramil Baruiz♥️ " + nama + " Ramil :(    ";
                       emotnama = "";
                       text2 = "unta nagustohan nimo akong g buhat  <3 ";
                       showDiv();
