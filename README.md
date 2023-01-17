@@ -67,7 +67,7 @@ async function akhir(){window.location = "https://api.whatsapp.com/send?phone=&t
             
             async function kuis(){
             	      await swalst.fire({
-                      title: 'Hai, ' + nama + '&#129325;', 
+                      title: 'hoi, ' + nama + '&#129325;', 
                       imageUrl: 'https://i.postimg.cc/Nf0pkxTQ/bear-panda.gif', imageWidth: 120, imageHeight: 120,
                       });
                   	await swalst.fire({
@@ -86,7 +86,7 @@ async function akhir(){window.location = "https://api.whatsapp.com/send?phone=&t
                       title: 'kapoy baya kayu buhat ani  ' + nama + ' &#128518;',
                       imageUrl: 'https://i.postimg.cc/3RXmq7fQ/mimibubu-1.gif', imageWidth: 120, imageHeight: 120,
                       });
-                      text = "Hehe Pm ko sa Fb Ramil Baruiz♥️ " + nama + " Ramil :(    ";
+                      text = "Hehe Pm ko sa Fb Ramil Baruiz " + nama + " Crush nko♥️ :(    ";
                       emotnama = "";
                       text2 = "unta nagustohan nimo akong g buhat  <3 ";
                       showDiv();
