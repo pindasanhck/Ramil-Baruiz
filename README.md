@@ -1,97 +1,410 @@
-<html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet"><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script><link href="https://BukaDeh.feeldream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://BukaDeh.feeldream.repl.co/script.js"></script>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Baruiz-Ramil</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Baruiz-Ramil" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://pindasanhck.github.io/Baruiz-Ramil/" />
+<meta property="og:url" content="https://pindasanhck.github.io/Baruiz-Ramil/" />
+<meta property="og:site_name" content="Baruiz-Ramil" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Baruiz-Ramil" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Baruiz-Ramil","name":"Baruiz-Ramil","url":"https://pindasanhck.github.io/Baruiz-Ramil/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Baruiz-Ramil/assets/css/style.css?v=960bf14eecfe45c708ada4649ff4f474acc6366f">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Baruiz-Ramil/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://pindasanhck.github.io/Baruiz-Ramil/">Baruiz-Ramil</a></h1>
+      
+
+      
+<html>
+<meta charset="UTF-8" /><meta content="width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5" name="viewport" /><meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&amp;display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sono:wght@600&amp;display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Nerko+One&amp;display=swap" rel="stylesheet" />
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
+  <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script><!--<link href="https://feeldreams.github.io/thisyou/style.css" rel="stylesheet" type="text/css" />-->
+  <script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
+  
 <head>
+<title>Script HTML buat Kamu</title>
+<link rel="icon" type="image/x-icon" href="https://www.palingit.com/favicon.ico" />
+<meta name="description" content="HTML Replit Coding" />
 <!-- 
-This code was made by Rayya R
-Blog: https://sinkronin.com
-Instagram: rayyarrr
-TikTok: rayyarr_
+  Made with love by Rayys!
+  
+     Blog: https://PalingIT.com
+     Instagram: ?
+     TikTok: @Ramilhshs
+     Email:Ramilguhao22@gmail.com
+     
+  Thanks to all <3
 -->
 </head>
-<body><div id="bodyblur"><img src="https://i.postimg.cc/NMLZ6Zk5/IMG-20220207-131156-010.jpg" width="100%" height="100%"/></div>
+<style>
+:root {
+--warna-bg: rgba(0, 0, 0, .3); 
+--tombol-teks: #fff;
+--tombol-bingkai: #fff;
+--bingkai: 18px;
+--bingkai-kiri: 1.3px solid var(--tombol-bingkai);
+--bingkai-kanan: 1.3px solid var(--tombol-bingkai);
+--gaya-font: 'Lato', sans-serif;
+--gaya-font2: 'Sono', sans-serif;
+--gaya-font3: 'Nerko One', cursive;
+}
+@keyframes fanim {0% {background-position: 0% 0%;}25% {background-position: 100% 100%;} 50% {background-position: 0% 100%;} 75% {background-position: 50% 50%;} 100% {background-position: 0% 0%;}}
+body{background-color:#000;font-family:var(--gaya-font);padding: 20px 25px;-webkit-user-select: none; -ms-user-select: none; user-select: none;} a{text-decoration:none;}
+body::before{content:"\00A9  Rayys | PalingIT";color:white;opacity:.05;font-size:10px;position:fixed;bottom:25px;right:25px;z-index:2}
+#bodyblur{opacity:.3;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);transition:all 1s ease;} 
+#wallpaper{width:100%;height:100%;transform: scale(2);transition:all 1.7s ease;}
+#beneranblur{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);-webkit-backdrop-filter:blur(0px); backdrop-filter:blur(0px);transition:all 3s ease;}
 
-<div id='Content'>
-<div class="image"><img src="https://i.postimg.cc/dVC2C8R0/bubududu-panda-1.gif" width="130px" height="130px"/></div><!--<div id="sp1"></div>-->
-<div><blockquote><p id="text"></p><p id="text2"></p><p id="akhiran" onClick="akhir();this.onclick=null;">[ Kirim Pesan &#128157; ]</p></blockquote></div></div>
+@keyframes jj{0%  {transform: scale(1.1);} 50% {transform: scale(1.2);} 100% {transform: scale(1.1);}}
+@keyframes rts{from {transform:scale(.1);} to {transform:scale(1);}}
+@keyframes rto{from {transform:scale(1);} to {transform:scale(1.1);}}
+@keyframes aniopa{0% {transform: scale(1);} 50% {transform: scale(.75);} 100% {transform: scale(1);}}
+@keyframes rtf{from {transform: rotate(0deg);} to {transform: rotate(360deg);}} @keyframes rt{from {transform: scale(.9);/* transform: rotate(-5deg); */} to {transform: scale(1);/* transform: rotate(5deg); */}}
+@keyframes kont{0%  {left:-1px; top:-3px;} 50% {left:1px; top:3px;} 100% {left:-1px; top:-3px;}}
 
-<script>
-  function nonFo() {document.getElementById('idfoto').style.display = "none";} function showFo() {document.getElementById('idfoto').style.display = "block";}
-  function nonDiv() {document.getElementById('Content').style.display = "none";} function showDiv() {ketik();document.getElementById('Content').style.opacity = "1";document.getElementById('Content').style.margin = "0";}
-  
-  var i=0,text;text = ""
-  var u=0,text2;text2 = ""
-  
-  function ketik() {if(i<text.length){document.getElementById("text").innerHTML += text.charAt(i);i++;setTimeout(ketik,100);}
-    if(i==text.length){document.getElementById("text").innerHTML = text + emotnama;ketikk();}
+blockquote{position:absolute;opacity:0;visibility:hidden;margin-top:100px;/*background:var(--warna-bg);border: 1px solid rgba(255, 255, 255, 0.5);border-radius:var(--bingkai);box-shadow: rgba(255,255,255, 0.3) 0px 7px 29px 0px;*/transform: scale(.1);transition:all .7s ease;margin-top:120px;margin-left:0;margin-right:0;color:var(--tombol-teks);text-shadow: 0px 2px 2px rgba(0, 0, 0, .8);/*backdrop-filter:blur(2px);*/}
+blockquote{width:400px;text-align:center;line-height:1.3em;padding:0}
+/*blockquote::before{content:attr(data-text);opacity:.7;font-family: sans-serif;position:absolute;left:8px;top:8px;min-width:15px;font-size:16px;text-align:center}*/
+blockquote p{font-size:15px;font-weight:400;line-height:1.5em;transition:all .5s ease;margin-left:25px;margin-right:25px}
+blockquote > .gaya4{font-family:var(--gaya-font3);font-size:18px !important;font-weight:400;}
+blockquote > .gaya3{font-size:17px;font-weight:700;text-align:center}
+blockquote > .gaya2{font-size:15px;font-weight:400}
+blockquote > #pesan6, blockquote > #pesan7{text-align:center}
+blockquote > #pesanAkhir2, blockquote > #pesanAkhir3{font-family:var(--gaya-font3);font-size:18px !important;}
+blockquote > #pesanAkhir, blockquote > #pesanAkhir2, blockquote > #pesanAkhir3{text-align:center;position: absolute;opacity:0;transform: scale(.1);}
+blockquote p:not(#halo, #opsL, #kalimat, #pesan3, .gaya2, .gaya4){display:none;}
+blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0;margin-top:24px;color:white;opacity:0;}
+
+#pergeseran{position:absolute;margin-top:120px;opacity:0;visibility:hidden;transform:scale(0);transition:all 1s ease;display:flex;flex-wrap:nowrap;align-items:flex-start;justify-content:flex-start;max-width:500px;padding:0 20px; overflow-y:hidden;overflow-x:hidden;scroll-behavior:smooth;scroll-snap-type:x mandatory; -ms-overflow-style:none;-webkit-overflow-scrolling:touch}
+#pergeseran p{background:var(--warna-bg);color:white;text-shadow: 0px 2px 2px rgba(0, 0, 0, .8);border:1px solid #fefefeba;border-radius:15px;padding:8px;display:flex;flex-wrap:nowrap;text-align:center;line-height:1.4em;align-items:center;justify-content:center;flex-shrink:0; width:90%;height:80px;margin:0 15px 0 0; scroll-snap-align:center}
+#pergeseran > *:last-child{margin-right:0} #pergeseran:after{content:'';display:block;flex-shrink:0; align-self:stretch;padding-left:20px}
+#pergeseran p b{display:block;}
+#pergeseran p b span{font-size:15px;font-weight:700;}
+#pergeseran p b img{width:80px;height:80px;margin-bottom:20px;}
+#fotolove{border-radius:50%;transition:all .3s ease;} #fotolove:hover{transform: scale(.8);}
+
+#Tombol{position:relative;opacity:0;margin:0;display:flex;align-items:left;list-style:none;transform: scale(.1);transition:all 1s ease;}
+#Tombol a{cursor:pointer;display:inline-flex;align-items:center; margin:0;margin:12px 0 12px 0;transition:all .2s ease;padding:10px;outline:0;border: .7px solid #fefefeba;border-radius:15px;line-height:15px;background:rgba(0,0,0,.2);color:var(--tombol-teks);font-size:13px;font-weight:700;white-space:nowrap;overflow:hidden;box-shadow: rgba(255,255,255, 0.3) 0px 7px 29px 0px;z-index:1}
+#Bn{margin:12px 0 12px 12px !important}
+
+#Content{animation-name:none;animation-duration: 3s;animation-iteration-count: infinite;position:relative;opacity:0;margin-top:50px;width:100%;height:180px;transition:all .7s ease;}
+#Content > *{display:flex;align-items:center;text-align:center;justify-content:center;margin-top:1px;}
+.kumpulanstiker > img{display:none;background: rgba(255, 255, 255, 0.7);box-shadow: 0 4px 30px rgba(255,255,255, 0.3);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 0.3);border-radius: 10%;padding:10px;width:85px;height:85px;margin-top:20px;}
+#ftAwal > img{width:130px;height:130px;margin-bottom:50px;}
+#fotostiker{opacity:.1;transition:all 1s ease;transform: scale(.1);}
+#imglewat{margin:30px 0;opacity:0;max-width:520px;height:100px;position:absolute;transition:all 1s ease;}
+
+.halo{text-align:center;font-size:17px !important;position:relative;margin-bottom:20px} 
+.halo.gaya2{font-family:var(--gaya-font2);font-size:24px !important;margin-top:20px !important;}
+.halo.sty3{position:absolute !important;font-size:14px !important;font-weight:400 !important;margin:30px 20px !important;}
+
+#fotolove img{transition:all .5s ease;width:75px;height:75px;padding:0;background:none}
+#loveIn img{display:inline-flex;background:none;width:130px;height:130px;transition:all .3s ease;} 
+#ket, #ketgeser, .halo{text-shadow: 0px 2px 2px rgba(0, 0, 0, .8);font-size:17px;font-weight:700;color:white}
+#ket{margin-top:15px !important;font-size:12px;font-weight:400;opacity:.8}
+#ketgeser{position:absolute;margin-top:25px;font-size:13px;font-weight:700;transform:scale(0);opacity:0;transition:all .7s ease;}
+
+@keyframes leaves {0% {transform: scale(1.0);} 100% {transform: scale(.9);}}
+/* #loveIn{animation: leaves .7s ease-in-out infinite alternate;-webkit-animation: leaves 1s ease-in-out infinite alternate;} */
+.lovein{background:#fff;border-radius:50%;padding:10px;font-size:30px;display:flex;align-items:center;text-align:center;justify-content:center;transition:all .3s ease;}
+.lovein:hover{transform: scale(.9);}
+
+#kolombaru{position:absolute;opacity:0;display:flex;transform:scale(.1);transition:all 1s ease;align-items:center;text-align:center;justify-content:center;z-index:1;}
+#kolombaru > li{margin:8px;padding:0;list-style-type: none;}
+#kolombaru li{opacity:.8;display:flex;font-size:28px}
+#kolombaru li:hover{opacity:.5;transform: scale(1.15);transition:all .3s ease;}
+
+.kolomrange{padding:0 30px;background:none;position:absolute;opacity:0;transform: scale(0);z-index:1;display:none;transition:all 1s ease;align-items:center;}
+.kolomrange .inirange{width:100%;height:40px;margin-right:15px;display:flex;align-items:center;text-align:center;justify-content:center;}
+.kolomrange .inirange input{height:10px;width:100%;-webkit-appearance:none;outline:none;background:#f2f2f2;border-radius:25px;box-shadow:inset 0px 0px 4px rgba(0,0,0,0.2);}
+.kolomrange .inirange input::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:20px;height:20px;border-radius:50%;border:3px solid #006FFF;background:white;transition:all .2s ease;}
+/*.kolomrange .inirange input::-webkit-slider-thumb:hover{border:5px solid #006FFF;}*/
+.kolomrange .inivalue{color:white;font-size:18px}
+
+.swal2-modal > *{font-size:16px;}
+.swal2-title{line-height:1.3em;font-size:18px;font-weight:700;text-align:center;padding:15px 30px 0 30px;}
+.swal2-timer-progress-bar-container > *{opacity:.7;background:#00B6FF;margin:0 2px}
+.swal2-modal{background:#EAEAEA;box-shadow: 0 4px 30px rgba(255,255,255, 0.3);border: 1px solid rgba(255, 255, 255, 0.3);border-radius: 8px;max-width:330px;top:-40px;}
+.swal2-styled.swal2-confirm, .swal2-styled.swal2-cancel{position: relative;background-color: #4839eb;color: #fff;border-radius:18px;z-index: 1;transition: all 0.2s;}
+
+.fa-heart {opacity:.3;color:white;font-size: 20px;position: absolute;animation:  heartMove linear 1;top: -10vh;z-index: 0;}
+@keyframes heartMove {0%{transform: translateY(-10vh) ;} 100%{transform: translateY(100vh) ;}}
+.sembunyi, #pesanditolak > *, #kado2, #kado3{display:none !important}
+</style>
+<body>
+	
+   <!-- Ganti Audio di sini -->
+   <audio src="https://feeldreams.github.io/everything.mp3" id="linkmp3" class="sembunyi"></audio>
+   
+   <div id="bodyblur">
+     <!-- Wallpaper --><img src="https://feeldreams.github.io/nightin.jpeg" id="wallpaper" />
+   </div>
+   
+   <div id="Content">
+
+     <div id="ftAwal">
+       <!-- Stiker Pembuka -->
+       <img src="https://feeldreams.github.io/pandaputih.gif" id="ftoAwal" />
+     </div>
+
+     <div id="loveIn">
+       <!-- Tombol LOVE --><label class="lovein">❤️</label>
+     </div>
+     <p id="ket">Ramil Baruiz!</p>
+
+     <div><marquee id="imglewat" direction="left"><img id="fotonimasi" src="" width="100px" height="100px" /></marquee></div>
+     
+     <div class="kumpulanstiker">
+         <!-- Stiker untuk Konten -->
+         <img src="https://feeldreams.github.io/pandapintu.gif" id="fotostiker" />
+         <img src="https://feeldreams.github.io/g5.gif" id="fotostiker1" />
+         <img src="https://feeldreams.github.io/heart.png" id="fotostikerA" />
+       
+         <!-- Stiker Jalan -->
+         <img src="https://feeldreams.github.io/peachgendong.gif" id="stikernimasi" />
+     </div>
+     
+     <div><div id="pergeseran">
+     	
+        <p><b>
+	        <span id="inihalo"></span>
+        </b></p>
+        
+        <p><b>
+	        <span> salamat dai na nakaila tika bitw loyal kayu ko nimo dai,ikw rjd akoa pero wla nkoy mahimo kay ni biya man ka sayang kayu ang 6months dai☹️</span></span>
+        </b></p>
+
+        <p><b>
+	        <span>kung kabalo lang ka sakong g bati na nag bulag ta cge rkog hilak taga gabie dle ko katarong ug tulog kay cge kog huna² nimo unta mo balik ka,😭</span>
+        </b></p>
+
+        <p><b>
+	        <span>if mo balik man gani ka huna hunaa jd ha,kabalo ko nasakitan ka ako pd unta dawat na nimo imong desesyon, basin makig balik ka kay napugos rka,😢</span>
+        </b></p>
+
+        <p><b>
+	        <span><i>✨amping always huh✨</i></span>
+        </b></p>
+        
+        <p><b>
+	        <span>Ilove you luvv 🤍 
+	        by:Ramil</span>
+        </b></p>
+       
+     </div></div>
+
+     <p id="ketgeser">click here!</p>
+
+     <div><blockquote id="bq">
+       <p id="halo" class="halo"></p>
+       <p id="kalimat"></p>
+       
+       <p id="pesanAkhir" class="gaya4"></p>
+       
+     </blockquote></div>
+     
+     <!-- Tombol Kirim Pesan -->
+     <div id="Tombol">
+       <a id="By">&#128140; Balas</a>
+     </div>
+
+   </div>
+
+<!-- Jangan Edit Bagian Ini --><script>
+  const body = document.querySelector("body");const swalst = Swal.mixin({timer: 2500, allowOutsideClick: false, showConfirmButton: false, timerProgressBar: true, imageHeight: 90,}); audio = new Audio('' + linkmp3.src); fotonimasi.src=stikernimasi.src;ftganti=0;fungsi=0;fungsiAwal=0;deffotostiker=fotostiker.src;function berjatuhan() {const heart = document.createElement("div"); heart.className = "fas fa-heart"; heart.style.left = (Math.random() * 90)+"vw"; heart.style.animationDuration = (Math.random()*3)+2+"s"; body.appendChild(heart);} setInterval(function name(params) {var heartArr = document.querySelectorAll(".fa-heart"); if (heartArr.length > 100) {heartArr[0].remove()}},100);Content.style = "opacity:1;margin-top:14vh"; const swals = Swal.mixin({allowOutsideClick: false, cancelButtonColor: '#FF0040', imageHeight: 80,}); 
+
+  async function inipesan(){
+       var { value: nama } = await swals.fire({
+           title: 'Name mo?', input: 'text',
+       });
+       if(nama && nama.length < 11){
+         window.nama = nama;
+         inihalo.innerHTML = "Hi, " + nama + " balik na please✨";
+         mulainama();
+         } else {
+           await swals.fire('Ups!', 'taronga ug butang sa imong pangalan');inipesan();
+        }
+        
   }
-  function ketikk() {if(u<text2.length){document.getElementById("text2").innerHTML += text2.charAt(u);u++;setTimeout(ketikk,200);}
-    if(u==text2.length){
-    document.getElementById("text2").innerHTML = text2 + emotnama;
-    document.getElementById('Content').style.animation = "kont 3s infinite";
-    document.getElementById('akhiran').style = "display:block;";
+
+  async function menuju(){
+    pesanwhatsapp = "Aaaaa lucuu bangetttt ><";
+    await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');
+    window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;
+  }
+
+  document.getElementById("loveIn").onclick = function() {
+    if(fungsiAwal==0){
+      audio.play();
+      loveIn.style="transition:all .8s ease;transform:scale(15);opacity:0";
+      ftAwal.style="opacity:0";
+      wallpaper.style="transform: scale(1);";
+      ket.style="display:none";
+      fungsiAwal=1;setTimeout(initengahan,300);setTimeout(inipesan,400)
     }
   }
-  </script>
+  
+  totalPesan = 6; //Input total pesan (slide) di sini ya!
+  aktigeser=0;thisgeser=1;
+  document.getElementById("bodyblur").onclick = function() {
+    if(aktigeser==1){
+      document.getElementById('pergeseran').scrollLeft += 300;
+      hsementara();
+      /*if(thisgeser>totalPesan){
+        wallpaper.style="transform: scale(2);";
+        pergeseran.style = "position:relative;transition:all .7s ease;";
+        setTimeout(aksiakhir,500);
+      }*/
+    }
+  }
+  function hsementara(){
+    ketgeser.style="position:relative;";
+    thisgeser+=1;aktigeser=0;setTimeout(munculkembali,500)
+  }
+  function munculkembali(){
+    if(thisgeser<totalPesan){
+      ketgeser.style="position:relative;transform:scale(1);opacity:.8";
+      aktigeser=1;
+    }
+    if(thisgeser==totalPesan){aktigeser=2;}
+  }
+  
+  document.getElementById("pergeseran").onclick = function() {
+  	if(aktigeser==2){
+  	   wallpaper.style="transform: scale(2);";
+         pergeseran.style = "position:relative;transition:all .7s ease;";
+         ftganti=12;fthilang();
+         setTimeout(aksiakhir,300);
+      }
+  }
 
-<script type="text/javascript">
-function play() {var audio = new Audio('' + linkmp3);audio.play();}
-async function akhir(){window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+  function aksiakhir(){
+    pergeseran.style="";ketgeser.style="";
+    bqmuncul();
+  }
+  
+  function initengahan(){
+    ftAwal.style="display:none";loveIn.style="display:none";ket.style="display:none";
+    Content.style = "opacity:1;margin-top:7vh";
+  }
+  
+  async function mulainama() {
+    /*fotostiker.style="display:inline-flex;";setTimeout(ftmuncul,100);*/
+    setTimeout(pgmuncul,200);
+  }
+  
+  function ftmuncul(){
+    if(ftganti==0){fotostiker.src = deffotostiker;}
+    if(ftganti==1){fotostiker.src = fotostiker1.src;}
+    if(ftganti==2){fotostiker.src = fotostiker2.src;}
+    if(ftganti==3){fotostiker.src = fotostiker3.src;}
+    if(ftganti==4){fotostiker.src = fotostiker4.src;}
+    if(ftganti==5){fotostiker.src = fotostiker5.src;}
+    if(ftganti==6){fotostiker.src = fotostiker6.src;}
+    if(ftganti==7){fotostiker.src = fotostiker7.src;}
+    if(ftganti!=10){fotostiker.style="display:inline-flex;opacity:1;transform:scale(1)";}
+    if(ftganti==11){fotostiker.src = fotostikerA2.src;}
 
-            const swals = Swal.mixin({allowOutsideClick: false, cancelButtonColor: '#FF0040',});
-            const swalsy = Swal.mixin({confirmButtonText: 'Iya', allowOutsideClick: false,});
-            const swalst = Swal.mixin({allowOutsideClick: false, showConfirmButton: false, timer: 3000, timerProgressBar: true,});
-            
-            async function mulaitanya(){
-            	var { isConfirmed: tanyawal } = await swals.fire({title: `Hai kamu!`, text: `Mau isi nama kamu dulu atau langsung aja?`, imageUrl: 'https://i.postimg.cc/0j2LDLxP/heart-happy.gif', imageWidth: 120, imageHeight: 120, confirmButtonText: 'Isi Nama', cancelButtonText: 'Langsung Aja', allowOutsideClick: false, showCancelButton: true,
-                });if(tanyawal){mulai();} else {nama = 'Kamu';kuis();}
-            }
+    if(ftganti==10){fotostiker.src = fotostikerA.src;fotostiker.style="display:inline-flex;opacity:1;transform:scale(1);width:150px;height:150px;padding:none;background:none;box-shadow:none;border:none";}
+  }
+  function fthilang(){fotostiker.style="display:inline-flex;opacity:0;transition:all .7s ease;transform:scale(0)";if(ftganti<=11){setTimeout(ftmuncul,250)} if(ftganti>=12){wallpaper.style="opacity:.7;transform: scale(2);";}}
+  function jjfoto(){fotostiker.style.animation="rto .8s infinite alternate";}
+  
+  function pgmuncul(){pergeseran.style="position:relative;margin-top:5vh;opacity:1;visibility:visible;transform:scale(1);";ftmuncul();setTimeout(munculkembali,500)}
+  function bqmuncul(){bq.style = "position:relative;opacity:1;visibility:visible;transform: scale(1);margin-top:10px";wallpaper.style="transform: scale(2);";setTimeout(mulaiketik3,200);}
+  function bqhilang(){wallpaper.style="transform: scale(2);";bodyblur.style="opacity:.3";bq.style = "position:relative;transition:all .7s ease;";}
+  
+  function tombol(){Tombol.style="opacity:1;transform: scale(1);";}
+  
+  document.getElementById("By").onclick = function() {
+    if(fungsi==1){Tombol.style="";otomatis();setTimeout(aktipesan6,400);fungsi=0;} 
+    if(fungsi==2){Tombol.style="";menuju();}
+  }
+ 
+  function befmulaiketik3(){
+    setTimeout(mulaiketik3,1000);
+    halo.innerHTML="Terakhir Nih 😆❤️";
+    kolombaru.style="";wallpaper.style="transform: scale(1);";
+  }
 
-            async function mulai(){
-                var { value: nama } = await swals.fire({
-                    title: 'kinsay pangalan nimo?',
-                    input: 'text',
-                    imageUrl: '/1.gif', imageWidth: 120, imageHeight: 120,
-                    allowOutsideClick: false,
-                    showCancelButton: false,
-                });
-                if(nama && nama.length < 11){
-                	window.nama = nama;
-                    pesanwhatsapp = "Aku udah liat semuanya kok><";
-                    linkmp3 = 'https://Foryou.feeldream.repl.co/faudio.mp3';
-                    kuis();play();
-                } else {
-                    await swals.fire('Ups!', 'Nama tidak boleh kosong atau lebih dari 10 karakter, ya!');
-                    mulai();
-                }
-            }
-            
-            async function kuis(){
-            	      await swalst.fire({
-                      title: 'hoi, ' + nama + '&#129325;', 
-                      imageUrl: 'https://i.postimg.cc/Nf0pkxTQ/bear-panda.gif', imageWidth: 120, imageHeight: 120,
-                      });
-                  	await swalst.fire({
-                      title: 'hmmm crush diay tika  ' + nama + '&#128523;', 
-                      imageUrl: 'https://i.postimg.cc/02wF21b1/peach-goma.gif', imageWidth: 120, imageHeight: 120,
-                      });   	
-                      await swalst.fire({
-                      title: 'hmmm ' + nama + ' dugay na diay tika crush',
-                      imageUrl: 'https://i.postimg.cc/1XScR4Vz/tkthao219-bubududu-1.gif', imageWidth: 120, imageHeight: 120,
-                      });
-                      await swalst.fire({
-                      title: 'labyuuuu♥️',
-                      imageUrl: 'https://i.postimg.cc/ydHSct1Q/gigit.gif', imageWidth: 120, imageHeight: 120,
-                      });
-                      await swalst.fire({
-                      title: 'kapoy baya kayu buhat ani  ' + nama + ' &#128518;',
-                      imageUrl: 'https://i.postimg.cc/3RXmq7fQ/mimibubu-1.gif', imageWidth: 120, imageHeight: 120,
-                      });
-                      text = "Hehe Pm ko sa Fb Ramil Baruiz " + nama + " Crush nko♥️ :(    ";
-                      emotnama = "";
-                      text2 = "unta nagustohan nimo akong g buhat  <3 ";
-                      showDiv();
-             }
-             mulai();
+  function mulaiketik3(){
+  halo.innerHTML="";
+  halo.classList.add("gaya4");
+  ftganti=10;ftmuncul();
+  //StartMarqueeL();
+  new TypeIt("#halo", {
+  strings: ["i love uuuu ><"], startDelay: 50, speed: 50, cursor: false,
+  afterComplete: function(){
+    halo.style.animation="rto .8s infinite alternate";
+    fotostiker.style.animation="rto .8s infinite alternate";
+    setInterval(berjatuhan,300);
+    //mulaiketikA();
+  },}).go();
+  }
+  
+  function mulaiketikA(){
+  pesanAkhir.style="position:relative;opacity:1;visibility:visible;transform: scale(1)";
+  new TypeIt("#pesanAkhir", {
+  strings: ["❤️❤️❤️❤️❤️❤️❤️❤️"], startDelay: 100, speed: 50, cursor: false, deleteSpeed: 20, breakLines: false, waitUntilVisible: true, lifelike: true,
+  afterComplete: function(){
+        setInterval(berjatuhan,300);setTimeout(tombol,700);fungsi=2;
+        pesanAkhir.style.animation="rto .8s infinite alternate";
+  },}).go();
+  }
+  
+  function otomatis(){halo.style.opacity="0"; kalimat.style="opacity:0"; setTimeout(otolanj,400);}
+  function otolanj(){halo.style.opacity="1";kalimat.style="opacity:1";}
+
+  function StartMarqueeL(){fotostiker.style="";imglewat.style="opacity:1;position:relative;";var marquee = document.getElementById ("imglewat");marquee.start();}
+  function StopMarqueeL(){var marquee = document.getElementById ("imglewat");marquee.stop();}StopMarqueeL(); 
+
+  const waktuSekarang = new Date().getHours();let ucapan;
+  if(waktuSekarang < 10){ucapan = "Good Morning ";} 
+  else if(waktuSekarang < 16){ucapan = "Selamat Siang ";}
+  else if(waktuSekarang < 19){ucapan = "Selamat Sore ";}
+  else{ucapan = "Good Night ";}
 </script>
+<!--<script src="https://feeldreams.github.io/thisyou/script.js"></script>-->
+<!-- Sampai Sini -->
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
