@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -203,11 +203,11 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
         </b></p>
         
         <p><b>
-	        <span> salamat dai na nakaila tika bitw loyal kayu ko nimo dai,ikw rjd akoa pero wla nkoy mahimo kay ni biya man ka sayang kayu ang 6months dai☹️</span></span>
+	        <span>ikw rjd akoa pero wla nkoy mahimo kay ni biya man ka sayang kayu ang 6months dai☹️</span></span>
         </b></p>
 
         <p><b>
-	        <span>kung kabalo lang ka sakong g bati na nag bulag ta cge rkog hilak taga gabie dle ko katarong ug tulog kay cge kog huna² nimo unta mo balik ka,😭</span>
+	        <span>kung kabalo lang ka sakong g bati na nag bulag ta cge rkog hilak taga gabie,😭</span>
         </b></p>
 
         <p><b>
